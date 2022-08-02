@@ -1,4 +1,3 @@
-[![MasterHead](https://waftengine.org/public/blog/3E3850B2FCE80C6-WaftEngine%20blog.png)]
 <h1 align="center">Hi 👋, I'm Jayakrishnan MK</h1>
 <h3 align="center">A passionate in Full Stack Developer(MERN) from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -38,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayakrishnan-mk&show_icons=true&locale=en" alt="jayakrishnan-mk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnan-mk&" alt="jayakrishnan-mk" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnan-mk&" alt="jayakrishnan-mk" /></p>
