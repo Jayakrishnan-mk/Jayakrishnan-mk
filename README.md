@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+- 💬 This is [MY RESUME] = https://drive.google.com/file/d/1q88Tzoo5vJD1Txbz1axrS2PL4Ckamcyq/view?usp=sharing
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jk__007__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jk__007__" height="30" width="40" /></a>
