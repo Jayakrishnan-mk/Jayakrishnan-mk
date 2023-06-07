@@ -35,8 +35,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JeKe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee jk" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayakrishnan-mk&show_icons=true&locale=en&layout=compact" alt="jayakrishnan-mk" /></p><br>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayakrishnan-mk&show_icons=true&locale=en&layout=compact" alt="jayakrishnan-mk" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jayakrishnan-mk&show_icons=true&locale=en" alt="jayakrishnan-mk" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnan-mk&" alt="jayakrishnan-mk" /></p>
+</div>
