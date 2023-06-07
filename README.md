@@ -39,6 +39,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayakrishnan-mk&show_icons=true&locale=en&layout=compact" alt="jayakrishnan-mk" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jayakrishnan-mk&show_icons=true&locale=en" alt="jayakrishnan-mk" /></p>
-<br><br><br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnan-mk&" alt="jayakrishnan-mk" /></p>
 </div>
