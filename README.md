@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jayakrishnan MK</h1>
-<h3 align="center">A passionate in Full Stack Developement (MERN) from India</h3>
+<h3 align="center">A passionate in Backend Developement (Node js) from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayakrishnan-mk&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishnan-mk" /> </p>
@@ -8,17 +8,11 @@
 
 - 🔭 I’m currently working on [Backend Development(Node Js)](https://github.com/Jayakrishnan-mk/JK-books)
 
-- 🌱 I’m currently learning **React Js**
-
-- 👯 I’m looking to collaborate on [JK ROOMS](https://github.com/Jayakrishnan-mk/JK-rooms)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Jayakrishnan-mk?tab=repositories](https://github.com/Jayakrishnan-mk?tab=repositories)
 
-- 💬 Ask me about **React and Node Js**
+- 💬 Ask me about **Node Js**
 
 - 📫 How to reach me - **jayakrishnansfc43@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 - 💬 This is [MY RESUME] = https://drive.google.com/file/d/1zdnR1_PEZsGHfxFGEgEZrKTl9gcUn5SO/view?usp=sharing
 
