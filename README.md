@@ -14,7 +14,7 @@
 
 - 📫 How to reach me - **jayakrishnansfc43@gmail.com**
 
-- 💬 This is [MY RESUME] = https://drive.google.com/file/d/1zdnR1_PEZsGHfxFGEgEZrKTl9gcUn5SO/view?usp=sharing
+- 💬 This is [MY RESUME] = https://drive.google.com/file/d/1kPaH81AGzFzeejgtdZGXkGr9uOXyDn7a/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
