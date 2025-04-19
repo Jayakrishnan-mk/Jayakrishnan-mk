@@ -20,23 +20,32 @@
 
 - 💬 This is [MY RESUME] = https://drive.google.com/file/d/1kPaH81AGzFzeejgtdZGXkGr9uOXyDn7a/view?usp=sharing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@jk__007__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jk__007__" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jayakrishnan-m-k-65359918a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayakrishnan m k" height="30" width="40" /></a>
-<a href="https://instagram.com/j.k.007.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j.k.007.__" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JeKe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee jk" /></a></p><br><br><br>
+     
+## ⚙️ GitHub Analytics
+<p align="center">
+  <a href="https://github.com/Jayakrishnan-mk">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jayakrishnan-mk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Jayakrishnan-mk">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jayakrishnan-mk&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayakrishnan-mk&show_icons=true&locale=en&layout=compact" alt="jayakrishnan-mk" /></p>
+<p align="center">
+  <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayakrishnan-mk&theme=dark" height="180em" />
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jayakrishnan-mk&show_icons=true&locale=en" alt="jayakrishnan-mk" /></p>
+<br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnan-mk&" alt="jayakrishnan-mk" /></p>
-</div>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jayakrishnan-mk&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+
+## ⚙️ LeetCode Analytics
+<p align="center">
+    <a href="https://leetcode.com/u/jayakrishnansfc43/"><img width="48%" src="https://leetcode.card.workers.dev/jayakrishnansfc43?theme=dark&font=baloo&border=2&border_radius=8"></a>
+</p>
+
