@@ -1,60 +1,61 @@
 <h1 align="center">Hey 👋, I'm Jayakrishnan MK</h1>
-<h3 align="center">A passionate in Backend Developement (Node js) from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs5cms0ZnNiOTQxMWh0OWZqc2todW9iYTd5NWh5cWV6a3J0d3A1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif">
+<h3 align="center">A passionate Backend Developer (Node.js) from India</h3>
 
- ![GitHub followers](https://img.shields.io/github/followers/Jayakrishnan-mk?style=social) 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+![GitHub followers](https://img.shields.io/github/followers/Jayakrishnan-mk?style=social)  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayakrishnan-mk&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishnan-mk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@jk__007__" target="blank"><img src="https://img.shields.io/twitter/follow/@jk__007__?logo=twitter&style=for-the-badge" alt="@jk__007__" /></a> </p>
+<p align="left"> 
+  <a href="https://x.com/jk__007__" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/jk__007__?logo=twitter&style=for-the-badge" alt="Twitter follow" />
+  </a> 
+</p>
 
-- 🔭 I’m currently working on [Backend Development(Node Js)](https://github.com/Jayakrishnan-mk/real-time-notification-system)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jayakrishnan-mk?tab=repositories](https://github.com/Jayakrishnan-mk?tab=repositories)
+- 🔭 I’m currently working on [a real-time backend project with Node.js](https://github.com/Jayakrishnan-mk/real-time-notification-system)
+- 💻 All of my projects are available at my [GitHub Repositories](https://github.com/Jayakrishnan-mk?tab=repositories)
+- 💬 Ask me about **Node.js, REST APIs, WebSockets**
+- 📫 How to reach me: **jayakrishnansfc43@gmail.com**
+- ⚡ Fun fact: I come from a Finance background and transitioned into tech 🚀
+- 📄 [Here’s my Resume](https://drive.google.com/file/d/1kPaH81AGzFzeejgtdZGXkGr9uOXyDn7a/view?usp=sharing)
 
-- 💬 Ask me about **Node Js**
+---
 
-- 📫 How to reach me - **jayakrishnansfc43@gmail.com**
+<h3 align="left">☕ Support Me</h3>
+<p><a href="https://www.buymeacoffee.com/JeKe"> 
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a></p>
+<br><br><br>
 
-- ⚡ Fun fact I come from Finance background
+## 📬 Connect with Me
 
-- 💬 This is [MY RESUME] = https://drive.google.com/file/d/1kPaH81AGzFzeejgtdZGXkGr9uOXyDn7a/view?usp=sharing
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayakrishnan-m-k-65359918a/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.facebook.com/jayakrishnan.sfc" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:jayakrishnansfc43@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/j.k.007.__/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  </a>
+  <a href="https://wa.me/+919747172699" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
+  </a>
+  <a href="https://x.com/jk__007__" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/JeKe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee jk" /></a></p><br><br><br>
+---
 
-## 😎 You can reach me by
-<div>
-  <samp>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/jayakrishnan-m-k-65359918a/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="jayakrishnan-m-k" height="30"/></a>
-      <a href="https://www.facebook.com/jayakrishnan.sfc" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="jayakrishnan-m-k" height="30"/></a>
-      <a href="https://mailto:jayakrishnansfc43@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="jayakrishnan-m-k" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://www.instagram.com/j.k.007.__/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="jayakrishnan-m-k" height="30"/></a>
-      <a href="https://wa.me/+919747172699" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="+919747172699" height="30"/></a>
-      <a href="https://x.com/jk__007__" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="jayakrishnan-m-k" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
+## 📊 GitHub Analytics
 
-<br>
-
-## ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/Jayakrishnan-mk">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jayakrishnan-mk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -65,18 +66,23 @@
 </p>
 
 <p align="center">
-  <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayakrishnan-mk&theme=dark" height="180em" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayakrishnan-mk&theme=dark" height="180em" />
 </p>
 
-<br>
+---
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jayakrishnan-mk&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-<br>
-
-## ⚙️ LeetCode Analytics
+## 🏆 GitHub Trophies
 <p align="center">
-    <a href="https://leetcode.com/u/jayakrishnansfc43/"><img width="48%" src="https://leetcode.card.workers.dev/jayakrishnansfc43?theme=dark&font=baloo&border=2&border_radius=8"></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayakrishnan-mk&theme=discord&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+## 💻 LeetCode Analytics
+
+<p align="center">
+  <a href="https://leetcode.com/u/jayakrishnansfc43/">
+    <img width="48%" src="https://leetcode.card.workers.dev/jayakrishnansfc43?theme=dark&font=baloo&border=2&border_radius=8" />
+  </a>
 </p>
 
