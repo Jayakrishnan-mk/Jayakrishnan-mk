@@ -3,16 +3,20 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayakrishnan-mk&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishnan-mk" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/Jayakrishnan-mk?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/Jayakrishnan-mk?style=social)
 
 <p align="left"> <a href="https://twitter.com/@jk__007__" target="blank"><img src="https://img.shields.io/twitter/follow/@jk__007__?logo=twitter&style=for-the-badge" alt="@jk__007__" /></a> </p>
 
-- 🔭 I’m currently working on [Backend Development(Node Js)](https://github.com/Jayakrishnan-mk/JK-books)
+- 🔭 I’m currently working on [Backend Development(Node Js)](https://github.com/Jayakrishnan-mk/real-time-notification-system)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jayakrishnan-mk?tab=repositories](https://github.com/Jayakrishnan-mk?tab=repositories)
 
 - 💬 Ask me about **Node Js**
 
 - 📫 How to reach me - **jayakrishnansfc43@gmail.com**
+
+- ⚡ Fun fact I come from Finance background
 
 - 💬 This is [MY RESUME] = https://drive.google.com/file/d/1kPaH81AGzFzeejgtdZGXkGr9uOXyDn7a/view?usp=sharing
 
