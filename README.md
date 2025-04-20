@@ -19,7 +19,7 @@
 - 💬 Ask me about **Node.js, REST APIs, WebSockets**
 - 📫 How to reach me: **jayakrishnansfc43@gmail.com**
 - ⚡ Fun fact: I come from a Finance background and transitioned into tech 🚀
-- 📄 [Here’s my Resume](https://drive.google.com/file/d/1kPaH81AGzFzeejgtdZGXkGr9uOXyDn7a/view?usp=sharing)
+- 📄 [Here’s my Resume](https://drive.google.com/file/d/1IOYGB3ZOLMguizT4bih7vkgk5wWa_jdX/view?usp=sharing)
 
 ---
 
