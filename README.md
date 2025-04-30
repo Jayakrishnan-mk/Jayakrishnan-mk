@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jayakrishnan MK</h1>
-<h3 align="center">A passionate Backend Developer (Node.js) from India</h3>
+<h3 align="center">SDE-2 level | Backend Developer | Node.js, Redis, Docker, MySQL</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs5cms0ZnNiOTQxMWh0OWZqc2todW9iYTd5NWh5cWV6a3J0d3A1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif">
 
@@ -14,12 +14,16 @@
 
 ---
 
-- 🔭 I’m currently working on [a real-time backend project with Node.js](https://github.com/Jayakrishnan-mk/real-time-notification-system)
-- 💻 All of my projects are available at my [GitHub Repositories](https://github.com/Jayakrishnan-mk?tab=repositories)
-- 💬 Ask me about **Node.js, REST APIs, WebSockets**
+### 🚀 About Me
+
+- 🔭 Currently working on: [A real-time notification backend system](https://github.com/Jayakrishnan-mk/real-time-notification-system)
+- 👨‍💻 2.5 YOE as a backend developer | Focused on scalable systems & clean architecture
+- 🧠 Skilled with **Node.js, REST APIs, MySQL, Redis, WebSocket, Docker**
+- 💡 Hands-on with system design, deployment (Railway, Docker), and production debugging
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1IOYGB3ZOLMguizT4bih7vkgk5wWa_jdX/view?usp=sharing)
+- 💬 Ask me about backend design, auth flows, Redis caching, and real-time systems
+- ⚡ Fun Fact: I come from a Finance background and transitioned into tech 🚀
 - 📫 How to reach me: **jayakrishnansfc43@gmail.com**
-- ⚡ Fun fact: I come from a Finance background and transitioned into tech 🚀
-- 📄 [Here’s my Resume](https://drive.google.com/file/d/1IOYGB3ZOLMguizT4bih7vkgk5wWa_jdX/view?usp=sharing)
 
 ---
 
@@ -85,4 +89,3 @@
     <img width="48%" src="https://leetcode.card.workers.dev/jayakrishnansfc43?theme=dark&font=baloo&border=2&border_radius=8" />
   </a>
 </p>
-
