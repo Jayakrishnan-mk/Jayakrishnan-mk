@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Jayakrishnan MK</h1>
 <h3 align="center">Backend Developer • Node.js | MySQL | Redis | Kafka | Docker | MongoDB </h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs5cms0ZnNiOTQxMWh0OWZqc2todW9iYTd5NWh5cWV6a3J0d3A1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif">
-
 ![GitHub followers](https://img.shields.io/github/followers/Jayakrishnan-mk?style=social)  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayakrishnan-mk&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishnan-mk" /> </p>
 
