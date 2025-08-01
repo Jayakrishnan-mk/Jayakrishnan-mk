@@ -14,10 +14,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: [A real-time notification backend system](https://github.com/Jayakrishnan-mk/real-time-notification-system)
-- 👨‍💻 2.5 YOE as a backend developer | Focused on scalable systems & clean architecture
-- 🧠 Skilled with **Node.js, REST APIs, MySQL, Redis, WebSocket, Docker**
-- 💡 Hands-on with system design, deployment (Railway, Docker), and production debugging
+- 🔭 Currently working on a Booking System
+- 👨‍💻 3 YOE as a backend developer | Focused on scalable systems & clean architecture
+- 🧠 Skilled with **Node.js, REST APIs, MySQL, Redis, Kafka, WebSocket, Docker**
+- 💡 Hands-on with system design, deployment (AWS, Railway, Docker), and production debugging
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1bvokvNAIqLri-ypfY8Et4YBbxFSHkJd6/view?usp=sharing)
 - 💬 Ask me about backend design, auth flows, Redis caching, and real-time systems
 - ⚡ Fun Fact: I come from a Finance background and transitioned into tech 🚀
