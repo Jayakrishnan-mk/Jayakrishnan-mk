@@ -18,7 +18,7 @@
 - 👨‍💻 3 YOE as a backend developer | Focused on scalable systems & clean architecture
 - 🧠 Skilled with **Node.js, REST APIs, MySQL, Redis, Kafka, WebSocket, Docker**
 - 💡 Hands-on with system design, deployment (AWS, Railway, Docker), and production debugging
-- 📄 [Check out my Resume](https://drive.google.com/file/d/1bvokvNAIqLri-ypfY8Et4YBbxFSHkJd6/view?usp=sharing)
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1MGs-Lz2PceZO6YHznOTp3OaIM2Fx7yAK/view?usp=sharing)
 - 💬 Ask me about backend design, auth flows, Redis caching, and real-time systems
 - ⚡ Fun Fact: I come from a Finance background and transitioned into tech 🚀
 - 📫 How to reach me: **jayakrishnansfc43@gmail.com**
