@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on an AI platform
+- 🔭 Currently working on a Fintech project
 - 👨‍💻 3 YOE as a backend developer | Focused on scalable systems & clean architecture
 - 🧠 Skilled with **Node.js, REST APIs, MySQL, Redis, Kafka, WebSocket, Docker**
 - 💡 Hands-on with system design, deployment (AWS, Railway, Docker), and production debugging
