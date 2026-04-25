@@ -23,6 +23,8 @@
 - ⚡ Fun Fact: I come from a Finance background and transitioned into tech 🚀
 - 📫 How to reach me: **jayakrishnansfc43@gmail.com**
 
+- My Blogs : https://hashnode.com/@jk-007
+
 ---
 
 <h3 align="left">☕ Support Me</h3>
