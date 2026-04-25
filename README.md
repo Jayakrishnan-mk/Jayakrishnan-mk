@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jayakrishnan MK</h1>
-<h3 align="center">Backend Developer • Node.js | MySQL | Redis | Kafka | Docker | MongoDB </h3>
+<h3 align="center">Backend Developer • Node.js & Nest.js | PostgreSQL | Redis | Kafka | AWS & GCP | Docker | MongoDB </h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/Jayakrishnan-mk?style=social)  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayakrishnan-mk&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishnan-mk" /> </p>
