@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on a Fintech project
-- 👨‍💻 3 YOE as a backend developer | Focused on scalable systems & clean architecture
+- 👨‍💻 3+ YOE as a backend developer | Focused on scalable systems & clean architecture
 - 🧠 Skilled with **Node.js, REST APIs, MySQL, Redis, Kafka, WebSocket, Docker**
 - 💡 Hands-on with system design, deployment (AWS, Railway, Docker), and production debugging
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1MGs-Lz2PceZO6YHznOTp3OaIM2Fx7yAK/view?usp=sharing)
